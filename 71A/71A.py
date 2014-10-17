@@ -1,6 +1,6 @@
-# Problem - 118A - Codeforces
+# Problem - 71A - Codeforces
 # Tags: strings
-# http://codeforces.com/problemset/problem/118/A
+# http://codeforces.com/problemset/problem/71/A
 for i in range(input()):
 	s=raw_input()
 	if len(s)>10:
