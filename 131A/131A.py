@@ -1,3 +1,6 @@
+# Problem - 131A - Codeforces
+# Tags: strings
+# http://codeforces.com/problemset/problem/131/A
 word=raw_input()
 if len(word) == 1:
 	if word[0].islower():
